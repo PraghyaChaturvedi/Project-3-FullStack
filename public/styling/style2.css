@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Francois+One&family=Gideon+Roman&family=Shippori+Mincho&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.mainContainer{
+    height: 500px;
+    width: 1430px;
+    background-color: #cad2ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.mainHeadText{
+    color: #282c54;
+    font-family: "Francois One", sans-serif;
+    font-size: 60px;
+    margin:20px;
+}
+
+.headFirst{
+    color: #454871;
+    font-size: 40px;
+    margin: 20px;
+}
+
+.headText{
+    height: 60px;
+    width: 1400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.headTextAlign{
+    text-align: center;
+}
+
+/* second Section */
+
+.imgSec{
+    background-color: #e5e9ff;
+    height: 900px;
+    width: 1430px;
+}
+
+.imgTopSec{
+    height: 300px;
+    width: 1430px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.imgTopSecFirst{
+    color: #282c54;
+    font-family: "Francois One", sans-serif;
+    font-size: 40px;
+}
+
+.imgTopSecSecond{
+    text-align: center;
+    margin: 20px;
+}
+
+.imgBottomSec{
+    /* height: 500px; */
+    width: 1430px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.imgs{
+    height: 400px;
+    width: 400px;
+}
+
+.teamData2{
+    height: 500px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: #9DA9F1 0px 10px 20px, #282c54 0px 6px 6px;
+    background-image: url("/image/bg.jpg");
+}
+
+.teamData{
+    height: 500px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: #9DA9F1 0px 10px 20px, #282c54 0px 6px 6px;
+}
+
+.socialMediaData{
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.viwersCount{
+    color: #282c54;
+    font-family: "Francois One", sans-serif;
+    font-size: 30px;
+}
+
+span{
+    font-size: 50px;
+    color: #282c54;
+    font-family: "Francois One", sans-serif;
+}
+
+.icons{
+    color: #282c54;
+}
+
+.icon{
+    margin: 20px;
+}
+
+.icons:hover{
+    color: #5670ff;
+}
+
+.viwersCount:hover{
+    color: rgb(232, 57, 116);
+}
+
+/* final part */
+.finalPart{
+    height: 400px;
+    width: 1430px;
+    background-color: #e5e8f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.firstFinalPart{
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 20px;
+    /* border: 2px solid beige; */
+
+}
+
+.innerFinalPart{
+    height: 150px;
+    width: 1100px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rightPartFinalSec{
+    height: 150px;
+    width: 700px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.leftPartFinalSec{
+    height: 150px;
+    width: 400px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.finalPartbox{
+    height: 50px;
+    width: 170px;
+    background-color: #6b6f95;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.finalSecHead{
+    color: #282c54;
+    font-family: "Francois One", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* .wrapContainer{
+    height: auto;
+    width: 1415px;
+    overflow: hidden;
+} */
+
+/*  */
+
+.founderName{
+    color: #282c54;
+    font-family: "Francois One", sans-serif;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.position{
+    color: #282c54;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+/* hover */
+
+.teamData:hover{
+    transform: scale(1.5);
+}
+
+.imgs:hover{
+    transform: scale(1.05);
+}
+
+.mainHeadText:hover{
+    text-shadow: #9DA9F1 0px 10px 20px, #282c54 0px 6px 6px;
+}
+
+.finalPartbox:hover{
+    box-shadow: #9DA9F1 0px 10px 20px, #282c54 0px 6px 6px;
+}
+
+.firstFinalPart:hover{
+    box-shadow: #9DA9F1 0px 10px 20px, #282c54 0px 6px 6px;
+}

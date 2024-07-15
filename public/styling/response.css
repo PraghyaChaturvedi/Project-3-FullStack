@@ -1,0 +1,305 @@
+@media (max-width: 768px){
+
+    .hamburger{
+        display: block;
+        margin: 20px;
+    }
+
+    .navbar{
+        justify-content: space-around;
+    }
+
+    .headDesign{
+        display: none;
+    }
+
+    .homeDecor{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .sideImg{
+        height:600px;
+        width:700px; 
+    }
+
+    .lastText{
+        color: white;
+        font-size: 30px;
+        text-transform: none;
+    }
+
+    .firstText{
+        color: white;
+        font-weight: bold;
+        font-size: 60px;
+    }
+
+    .boldText{
+        display: flex;
+        flex-direction: column;
+        font-size: 100px;
+    }
+
+    .LoginSignUp{
+        height: 80px;
+        width: 190px;
+        
+    }
+
+    .btnDecor{
+        text-decoration: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Gideon Roman", serif;
+        height: 80px;
+    }
+
+    /* 2nd Service */
+
+    .secondPageHead{
+        width: 89.5rem; 
+        height: 5rem;
+        color: #282c54;
+        padding-top: 5rem;
+        text-align: center;
+        font-family: "Freeman", sans-serif;
+        font-size: 70px;
+        margin-bottom: 30px;
+    }
+
+    .postCardOuterVisibleContainer{
+    height: 18.7rem;
+    width: 68.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: none;
+    flex-direction: column;
+    margin-top: 700px;
+    }
+
+    .containerServices{
+        background-color: #E5E8F8;
+        height:2200px;
+        width: 89.5rem;    
+    }
+
+    .postCardDataBox{
+        height: 500px;
+        width: 700px;
+        border: 0.12rem solid black;
+        margin: 0.6rem;
+        border-radius: 0.625rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .postCardInnerDataBox{
+        height:500px;
+        width: 700px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        box-shadow: #9DA9F1 0px 10px 20px, #9DA9F1 0px 6px 6px;  
+    }
+
+    .postCardData{
+        font-size: 30px;
+    }
+
+    .postCardTitle{
+        margin: 25px;
+        font-size: 50px;
+    }
+
+    .SecondPageSmallText{
+        height: 6.25rem;
+        width: 1000px;
+        text-align: center;
+        color: #282c54;
+        font-size: 30px;
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+
+    .icondiv{
+        display: none;
+    }
+
+    .icondiv2{
+        display: block;
+    }
+    
+    /* project disp */
+
+    .projectDisplayInner{
+        height: 18.7rem;
+        width: 84.6rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-evenly;
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .projectDisplaySection{
+        height: 1900px;
+        
+    }
+
+    .projectImg{
+        height: 600px;
+        width: 900px;
+        margin: 20px;
+        box-shadow: #9DA9F1 0px 10px 20px, #9DA9F1 0px 6px 6px;
+    }
+
+    /* divider container */
+
+    .dividerContainer{
+        flex-direction: column;
+    }
+
+    .fourthText{
+        margin-bottom: 50px;
+        width: 800px;
+        text-align: center;
+        font-size: 25px;
+        margin-left:-60px;
+    }
+
+    .dividerContainer2{
+        flex-direction: column;
+    }
+
+
+    /*  */
+
+    .logosToConnect{
+        height:500px;
+        width: 900px;
+        margin-top: 500px;
+    }
+
+    .logoCollector a i {
+        font-size: 70px;
+    }
+
+    .connectionDiv{
+        font-size: 35px;
+    }
+
+    .feedbackForm{
+        height:500px;
+        width: 900px;
+    }
+
+    .CustomerForm{
+        width: 900px;
+        height: 700px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: #9DA9F1 0px 10px 20px, #282c54 0px 6px 6px;
+        flex-direction: column;
+    }
+    
+    .halfImgHalfText2{
+        height: 1900px;
+    }
+
+    .textarea{
+        display: none;
+    }
+
+    .textarea1{
+        display: inline-block;
+    }
+
+    .leftSectionlogos{
+        max-width: calc(50%-30rem);
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .connectionDiv2{
+        font-size: 40px;
+        margin-top: 450px;
+    }
+
+    .connectionDiv1{
+        font-size: 40px;
+        /* margin-bottom: 650px; */
+    }
+
+    .dataCollector{
+        height: 70px;
+        width: 800px;
+        margin: 20px;
+    }
+    
+    .formFirstText{
+        color: #282c54;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        font-size: 55px;
+    }
+
+    /* hamburger */
+
+    .hider{
+        display: none;
+        
+    }
+
+    .hamburgerVisible{
+        margin-top: 530px;
+        height: auto;
+        width: auto;
+        background-color: rgb(173, 173, 234);
+        position: relative;
+        z-index: 6;
+        margin-right: 100px;
+        border-radius: 20px;
+    }
+
+    .SectionSelector{
+        height: 100px;
+        width: 1100px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px;
+    }
+
+    .SectionSelector a{
+        text-decoration: none;
+        cursor: pointer;
+        font-size: 45px;
+        color: white;
+    }
+
+    .SectionSelector a:hover{
+        text-decoration: underline;
+        transform: scale(1.07);
+    }
+
+    .closer i{
+        font-size: 45px;
+        color: white;
+    }
+}
+
+

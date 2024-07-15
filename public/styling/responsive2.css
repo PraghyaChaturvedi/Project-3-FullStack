@@ -1,0 +1,174 @@
+@media (max-width: 375px) {
+
+    .firstText{
+        color: white;
+        font-weight: bold;
+        font-size: 90px;
+        margin-top: 25px;
+    }
+
+    .boldText{
+        display: flex;
+        flex-direction: column;
+        font-size: 150px;
+    }
+
+    .hamburger i {
+        font-size: 100px;
+    }
+
+    .lastText{
+        color: white;
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+
+    .LoginSignUp{
+        height: 100px;
+        width: 290px;
+        
+    }
+
+    .btnDecor{
+        font-size: 45px;
+    }
+
+    .sideImg{
+        height:900px;
+        width:1000px; 
+        margin-top: 20px;
+    }
+
+    /* second page */
+
+    .secondPageHead{
+        font-size: 100px;
+        margin-bottom: 60px;
+    }
+
+    .SecondPageSmallText{
+        font-size: 50px;
+    }
+
+    .postCardsContainer{
+        margin-top: 350px;
+    }
+
+    .postCardDataBox  {
+        height:600px;
+        width: 900px;
+    }
+
+    .postCardInnerDataBox{
+        height:600px;
+        width: 900px;
+    }
+
+    .containerServices{
+        background-color: #E5E8F8;
+        height:2700px;
+        width: 89.5rem;    
+    }
+
+    .postCardData{
+        font-size: 45px;
+    }
+
+    .postCardTitle{
+        margin: 25px;
+        font-size: 75px;
+    }
+
+    .icondiv2 i{
+        font-size: 110px;
+    }
+
+    /* project sec */
+
+    .projectDisplayInner{
+        margin-top: 400px;
+    }
+
+    /* animation */
+
+    .fourthText{
+        font-size: 35px;
+    }
+
+    .dataCollector{
+        font-size: 30px;
+    }
+
+    /* hamburger */
+
+    .SectionSelector{
+        height: 150px;
+        width: 1100px;
+    }
+
+    .SectionSelector a{
+        font-size: 65px;
+    }
+
+    .closer i{
+        font-size: 65px;
+        color: white;
+    }
+
+    .hamburgerVisible{
+        margin-top: 790px;
+    }
+}   
+
+@media (max-width:320px) {
+
+    .firstText{
+        font-size: 55px;
+        margin-top: 25px;
+    }
+
+    .boldText{
+        display: flex;
+        flex-direction: column;
+        font-size: 150px;
+    }
+
+    .hamburger i {
+        font-size: 100px;
+    }
+
+    .lastText{
+        color: white;
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width : 425px) {
+
+    .nexusLogo{
+        height: 200px;
+        width:400px;
+    }
+
+    .firstText{
+        color: white;
+        font-weight: bold;
+        font-size: 80px;
+        margin-top: 40px;
+    }
+
+    .lastText{
+        font-size: 40px;
+        margin: 25px;
+    }
+
+    .hamburger i{
+        font-size: 90px;
+    }
+
+    .sideImg{
+        height: 900px;
+        width: 1000px;
+    }
+}

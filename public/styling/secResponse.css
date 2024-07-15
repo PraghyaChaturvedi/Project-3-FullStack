@@ -1,0 +1,183 @@
+@media (max-width: 768px) {
+    
+    .mainContainer{
+        height: 700px;
+    }
+
+    .mainHeadText{
+        font-size: 90px;
+    }
+
+    .headFirst{
+        font-size: 60px;
+    }
+
+    .headTextAlign{
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    /* second */
+
+    .imgTopSecFirst{
+        font-size: 90px;
+    }
+
+    .imgTopSecSecond{
+        font-size: 25px;
+    }
+
+    .founderName{
+        font-size: 35px;
+    }
+
+    .position{
+        font-size: 20px;
+    }
+
+    .firstFinalPart{
+        height: 300px;
+        width: 1230px;
+    }
+
+    .finalSecHead{
+        font-size: 40px;
+        font-weight: bold;
+    }
+
+    .finalSecSmallText{
+        font-size: 20px;
+    }
+
+    .finalPartbox {
+        height: 90px;
+        width: 250px;
+    }
+
+    .finalPartNum{
+        font-size: 25px;
+    }
+
+}
+
+
+@media (max-width: 425px) {
+    
+    .mainContainer{
+        height: 1000px;
+    }
+
+    .mainHeadText{
+        font-size: 100px;
+    }
+
+    .headFirst{
+        font-size: 80px;
+    }
+
+    .headTextAlign{
+        font-size: 30px;
+        margin-top: 110px;
+    }
+
+    /* second */
+
+    .imgSec{
+        background-color: #e5e9ff;
+        height: 3000px;
+        width: 1430px;
+    }
+
+    .teamData{
+        height: 800px;
+        width: 800px;
+        margin-bottom: 80px;
+    }
+
+    .teamData2{
+        height: 800px;
+        width: 800px;
+        margin-bottom: 80px;
+    }
+
+    .viwersCount{
+        font-size: 65px;
+    }
+
+    .socialMediaData {
+        font-size: 30px;
+    }
+
+    .icon i{
+        font-size: 90px;
+    }
+
+    .imgs{
+        height: 700px;
+        width: 800px;
+    }
+
+    .imgTopSecFirst{
+        font-size: 90px;
+    }
+
+    .imgTopSecSecond{
+        font-size: 35px;
+    }
+
+    .imgBottomSec{
+        flex-direction: column;
+    }
+
+    .founderName{
+        font-size: 55px;
+    }
+
+    .position{
+        font-size: 20px;
+        display: none;
+    }
+
+    .firstFinalPart{
+        height: 500px;
+        width: 1230px;
+    }
+
+    .finalSecHead{
+        font-size: 60px;
+        font-weight: bold;
+        margin-bottom: -70px;
+    }
+
+    .finalSecSmallText{
+        font-size: 25px;
+        margin-top: 75px;
+    }
+
+    .finalPartbox {
+        height: 90px;
+        width: 250px;
+    }
+
+    .finalPartNum{
+        font-size: 25px;
+    }
+
+    .finalPart{
+        height: 600px;
+        width: 1430px;
+    }
+
+}
+
+@media (max-width:320px) {
+    
+    .headFirst{
+        font-size: 50px;
+    }
+
+    .headTextAlign{
+        font-size: 25px;
+    }
+}
+
