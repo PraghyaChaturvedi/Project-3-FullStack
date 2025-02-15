@@ -52,7 +52,7 @@ nexus-multipage-website/
 ```
 
 ## Deployment
-This project is hosted on **Netlify**. You can access it [here](#https://techysoftwarecompany.netlify.app/)
+This project is hosted on **Netlify**. You can access it [here](https://techysoftwarecompany.netlify.app/)
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repo and submit a pull request.
